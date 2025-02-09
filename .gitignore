@@ -5,4 +5,8 @@
 #Windows-os
 Thumbs. db
 
+#JARFiles
+*.jar
 
+
+[xyz]*.txt
